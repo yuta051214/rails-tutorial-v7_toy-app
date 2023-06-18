@@ -1,25 +1,7 @@
-# README
+# rails-tutorial-v7_hello-app
+こちらは『 Ruby on Rails チュートリアル（第７版）』の "第２章 Toy アプリケーション" に登場する toy app のコードです。
+Render にデプロイしています。
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# rails-tutorial-v7_toy-app
+# バージョン
+- Rubyバージョン: 3.2.1
+- Railsバージョン: 7.0.4以上で、7.0.4.3以下
