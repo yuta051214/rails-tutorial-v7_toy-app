@@ -1,6 +1,6 @@
 class User < ApplicationRecord
   has_many :microposts
 
-  validates :name, presence: ture
-  validates :email, presence: ture
+  validates :name, presence: true
+  validates :email, presence: true
 end
